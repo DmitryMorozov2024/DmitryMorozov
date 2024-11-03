@@ -1,3 +1,1 @@
-kkkkk
-kkkkkk
-kkkkk
+console.log('asd');
